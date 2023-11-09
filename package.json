@@ -1,7 +1,7 @@
 {
-  "name": "vue-light-validation",
+  "name": "vue-light-validator",
   "version": "1.0.0",
-  "description": "Lightweight Vue form validator",
+  "description": "Lightweight Vue form validator using zero dependencies",
   "main": "index.js",
   "keywords": [
     "vue",
@@ -10,5 +10,6 @@
     "validation"
   ],
   "author": "5e",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/5e/vue-light-validator"
 }
