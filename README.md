@@ -1,5 +1,8 @@
 # vue-light-validator
-Lightweight Vue form validator using zero dependencies
+Lightweight Vue 3 form validator using zero dependencies
+
+## Demo
+https://codesandbox.io/s/kind-ishizaka-sn2kfv?file=/src/App.vue
 
 ## Install
 ```
