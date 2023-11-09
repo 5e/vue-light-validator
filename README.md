@@ -78,6 +78,25 @@ Text-input component (both inputs now have the rule applied):
 </template>
 ```
 
+OR:
+```html
+<v-form v-model="valid">
+      <div>
+        <text-input />
+      </div>
+</v-form>
+
+...
+
+<template>
+    <div>
+        <input id="firstName" v-model="firstName" v-rules="[rules.required]" />
+        <input id="lastName" v-model="lastName" v-rules="[rules.required]" />
+    </div>
+</template>
+```
+
+
 v-form v-model value:
 ```js
 { 
