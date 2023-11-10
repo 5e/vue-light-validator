@@ -2,7 +2,6 @@
 Lightweight Vue 3 form validator using zero dependencies
 
 <a href="https://www.npmjs.com/package/vue-light-validator"><img src="https://img.shields.io/npm/v/vue-light-validator"></a>
-<a href="https://bundlephobia.com/package/vue-light-validator"><img src="https://img.shields.io/bundlephobia/minzip/vue-light-validator"></a>
 <a href="https://bundlejs.com/?q=vue-light-validator"><img src="https://img.shields.io/bundlejs/size/vue-light-validator"></a>
 
 ## [Documentation & demo](https://5e.github.io/vue-light-validator/#/) 
