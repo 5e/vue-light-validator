@@ -2,7 +2,7 @@
   "name": "vue-light-validator",
   "version": "1.0.1",
   "description": "Lightweight Vue 3 form validator using zero dependencies",
-  "main": "index.js",
+  "main": "./src/index.js",
   "keywords": [
     "vue",
     "form",
