@@ -11,6 +11,9 @@
   ],
   "author": "5e",
   "license": "ISC",
-  "git": "https://github.com/5e/vue-light-validator",
+  "repository": {
+    "url": "https://github.com/5e/vue-light-validator",
+    "type": "git"
+  },
   "homepage": "https://5e.github.io/vue-light-validator"
 }
