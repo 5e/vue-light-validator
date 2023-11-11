@@ -9,6 +9,9 @@
     "validator",
     "validation"
   ],
+  "files":[
+    "src"
+  ],
   "author": "5e",
   "license": "ISC",
   "repository": {
